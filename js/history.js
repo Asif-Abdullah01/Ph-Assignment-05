@@ -7,9 +7,6 @@ historyButton.addEventListener('click',function(){
     donationButton.classList.remove('bg-[#B4F461]');
     document.getElementById('donation-main').classList.add('hidden')
     document.getElementById('history-main').classList.remove('hidden')
-
-
-
     
 })
 
